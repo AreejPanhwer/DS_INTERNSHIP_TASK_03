@@ -2,8 +2,10 @@
 
 Explore and analyze the UCI Heart Disease dataset using advanced EDA techniques to uncover patterns and insights, aiming to predict heart disease with high accuracy. Includes visualizations, statistical analysis, and machine learning models.
 
-Author : Engr_Areej\ 
-Email : areejpanhwer82@gmail.com\ 
+Author : Engr_Areej
+
+Email : areejpanhwer82@gmail.com
+
 Linkedln : www.linkedin.com/in/engr-areej-243abd4538
 
 # Goal of the Analysis
